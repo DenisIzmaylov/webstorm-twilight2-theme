@@ -2,9 +2,9 @@
 
 Custom color theme for [WebStorm 10](https://www.jetbrains.com/webstorm/).
 
-![Screen 1](http://denisizmaylov.github.io/webstorm-twilight2-theme/screen1.png)
+<img src="http://denisizmaylov.github.io/webstorm-twilight2-theme/screen1.png" width="360" />
 
-![Screen 2](http://denisizmaylov.github.io/webstorm-twilight2-theme/screen2.png)
+<img src="http://denisizmaylov.github.io/webstorm-twilight2-theme/screen2.png" width="360" />
 
 ## Installation
 
