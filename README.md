@@ -2,6 +2,8 @@
 
 Custom color theme for [WebStorm 10](https://www.jetbrains.com/webstorm/).
 
+## Preview
+
 <img src="http://denisizmaylov.github.io/webstorm-twilight2-theme/screen1.png" width="500" />
 
 <img src="http://denisizmaylov.github.io/webstorm-twilight2-theme/screen2.png" width="500" />
